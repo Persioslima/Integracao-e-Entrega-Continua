@@ -1,1 +1,12 @@
-{ "name": "entregacontinua", "version": "1.0.0" } 
+{
+  "name": "entregacontinua",
+  "version": "1.0.0",
+  "description": "Descrição do seu projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "Persio",
+  "license": "ISC"
+}
+v
